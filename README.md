@@ -1,1 +1,2 @@
 # ATMApplication
+Bu örnek, kullanýcý giriþi, iþlem seçimi, iþlem yürütme ve gün sonu iþlemi için temel bir þablondur. Gerçek bir ATM uygulamasý daha fazla güvenlik ve iþlevsellik gerektirir, ancak bu örnek, C# dilini kullanarak nasýl baþlayabileceðinizi gösterir. Gerçek projelerde, kullanýcý bilgilerini veritabanýnda saklamak ve daha güvenli bir þekilde iþlem yapmak için güvenlik önlemleri almanýz gerekecektir.
